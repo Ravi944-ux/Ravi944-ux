@@ -58,7 +58,7 @@ Here are some of my best works:
 
 ## 📫 Connect With Me
 <p>
-  <a href="www.linkedin.com/in/ravikirana-y-1ab427371" target="_blank">
+  <a href="https://www.linkedin.com/in/ravikirana-y-1ab427371/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ravikiranay46@gmail.com">
