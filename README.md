@@ -13,7 +13,7 @@
 -  Learning **Full Stack Development (Frontend + Backend)**
 -  Interested in **Web Apps, Databases, Automation & AI Tools**
 - 🎯 Goal: **Get a Developer Job & Build Strong Portfolio Projects**
-- 📍 Location: India 🇮🇳
+- 📍 Location: India 
 
 ---
 
